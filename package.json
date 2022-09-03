@@ -1,28 +1,34 @@
 {
-  "name": "ever-green-light-color-theme",
-  "displayName": "Ever Green Light Theme",
-  "description": "A confortable light theme for every one.",
-  "version": "0.0.1",
-  "license": "MIT",
-  "engines": {
-    "vscode": "^1.13.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "icon": "icon.png",
-  "contributes": {
-    "themes": [
-      {
-        "label": "Ever Green",
-        "uiTheme": "vs",
-        "path": "./themes/Ever Green-color-theme.json"
-      }
-    ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/DoooReyn/EverGreenLightTheme"
-  },
-  "publisher": "Reyn5Teens7"
+	"name": "ever-green-light-color-theme",
+	"displayName": "Ever Green Light Theme",
+	"description": "A confortable light theme for every one.",
+	"version": "0.0.1",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.13.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ever Green",
+				"uiTheme": "vs",
+				"path": "./themes/Ever Green-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DoooReyn/EverGreenLightTheme"
+	},
+	"publisher": "Reyn5Teens7",
+	"__metadata": {
+		"id": "40e53756-7031-4d8c-bc7b-3c596ab54855",
+		"publisherDisplayName": "Reyn5&Teens7",
+		"publisherId": "d0e31386-09ae-4931-88c3-f897bdacf74a",
+		"isPreReleaseVersion": false
+	}
 }
