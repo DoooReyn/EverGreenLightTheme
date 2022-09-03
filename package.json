@@ -2,7 +2,7 @@
 	"name": "ever-green-light-color-theme",
 	"displayName": "Ever Green Light Theme",
 	"description": "A confortable light theme for every one.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"license": "MIT",
 	"engines": {
 		"vscode": "^1.13.0"
