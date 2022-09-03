@@ -1,14 +1,16 @@
 {
-  "name": "ever-green",
-  "displayName": "Ever Green",
+  "name": "ever-green-light-color-theme",
+  "displayName": "Ever Green Light Theme",
   "description": "A confortable light theme for every one.",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
-    "vscode": "^1.71.0"
+    "vscode": "^1.13.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
@@ -18,5 +20,9 @@
       }
     ]
   },
-  "repository": "https://github.com/DoooReyn/EverGreenLightTheme"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DoooReyn/EverGreenLightTheme"
+  },
+  "publisher": "Reyn5Teens7"
 }
